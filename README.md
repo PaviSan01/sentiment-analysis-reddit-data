@@ -1,0 +1,2 @@
+The dataset comprises 37,249 Reddit comments about the 2019 Indian General Elections. The independent variable is the clean_comment, serving as input features. The dependent variable is the category label, indicating if the sentiment is positive (1), neutral (0), or negative (-1). This labelled data is essential for sentiment analysis and text classification tasks.
+source: www.kaggle.com. (n.d.). Twitter and Reddit Sentimental analysis Dataset. [online] Available at: https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset.
